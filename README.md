@@ -8,7 +8,7 @@
 
 - 🌱 **Interests:** Statistics, DBMS, Data Analysis & Visualisation, Machine Learning
 
-- 💬 **Learning:** Power BI, Tablea, Flask
+- 💬 **Learning:** Power BI, Tableau, Flask
 
 - 📫 **Reach me @:** varshaadilli@gmail.com
 <br>
