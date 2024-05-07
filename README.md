@@ -2,7 +2,7 @@
 <h3 align="center">A passionate individual interested to learn and explore</h3>
 <br>
 
-- 🔭 **Education:** Currently pursuing 3rd Year Integrated Msc. Data Science
+- 🔭 **Education:** Currently pursuing 5th Year Integrated Msc. Data Science
 
 - 🤝 **Career Objective:** Looking for an Internship in 2023
 
